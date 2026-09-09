@@ -138,5 +138,5 @@ form{
     font-family: playfair;
     font-size: 50px;
     color: #012c1b;
-    height:20%;
+    height:fit-content;
 }
